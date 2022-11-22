@@ -5,16 +5,16 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Paki-Music",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/oauth2/authorize?client_id=1042365319659921448&scope=applications.commands%20bot&permissions=537159744",
   //BotInvite Link
   Features: [
     {
-      name: "Moderation",
+      name: "Music",
       description:
-        "Moderation is the process of eliminating or lessening extremes.",
+        "24/7 music online support bot.",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
@@ -38,8 +38,8 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
+  serverCount: 10, //-  - Your
+  memberCount: 5000, //--   - Bot
   executedCommand: 27000, //--  - Stats
   availableCommand: 400, //---   - Here
   //Do not change if you don't know about them
@@ -54,12 +54,9 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
-  twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
-  facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  githubLink: "https://github.com/syedmuddassirpubg15",
+  discordLink: "https://discord.gg/ZugD4Fq8b5",
+  youtubeLink: "https://www.youtube.com/@callmesyedmuddassir",
 };
 
 export default config;
